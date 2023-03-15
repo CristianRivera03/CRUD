@@ -1,0 +1,16 @@
+C:\Users\CDS2\Desktop\BABY\CRUD_1\bin\Debug\CRUD_1.exe.config
+C:\Users\CDS2\Desktop\BABY\CRUD_1\bin\Debug\CRUD_1.exe
+C:\Users\CDS2\Desktop\BABY\CRUD_1\bin\Debug\CRUD_1.pdb
+C:\Users\CDS2\Desktop\BABY\CRUD_1\obj\Debug\CRUD_1.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\BABY\CRUD_1\obj\Debug\CRUD_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CDS2\Desktop\BABY\CRUD_1\obj\Debug\CRUD_1.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\BABY\CRUD_1\obj\Debug\CRUD_1.exe
+C:\Users\CDS2\Desktop\BABY\CRUD_1\obj\Debug\CRUD_1.pdb
+C:\Users\cr853\Downloads\CRUD\obj\Debug\CRUD_1.csproj.AssemblyReference.cache
+C:\Users\cr853\Downloads\CRUD\obj\Debug\CRUD_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cr853\Downloads\CRUD\obj\Debug\CRUD_1.csproj.CoreCompileInputs.cache
+C:\Users\cr853\Downloads\CRUD\obj\Debug\CRUD_1.exe
+C:\Users\cr853\Downloads\CRUD\obj\Debug\CRUD_1.pdb
+C:\Users\cr853\Downloads\CRUD\bin\Debug\CRUD_1.exe.config
+C:\Users\cr853\Downloads\CRUD\bin\Debug\CRUD_1.exe
+C:\Users\cr853\Downloads\CRUD\bin\Debug\CRUD_1.pdb
